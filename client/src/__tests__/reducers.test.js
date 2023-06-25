@@ -13,6 +13,7 @@ import {
 
 const initialState = {
   products: [],
+  currentCategory: '1',
   cart: [
     {
       _id: '1',
